@@ -1,0 +1,44 @@
+[
+    {
+      "brand": "Xerics",
+      "model": "Vendetta Automatic Wandering Hour",
+      "price": "$1,295.00",
+      "description": "A unique watch with a wandering hour display and a skeletonized dial. The watch is powered by an automatic movement and has a leather strap. The watch is available in various colors and finishes.",
+      "id":2
+    },
+    
+    {
+      "brand": "Omega",
+      "model": "Speedmaster Professional Moonwatch",
+      "price": "$6,300.00",
+      "description": "A legendary watch that was worn by the astronauts of the Apollo missions. The watch features a chronograph function, a tachymeter bezel, and a hesalite crystal. The watch is powered by a manual-winding movement and has a stainless steel bracelet.",
+      "id":3
+    },
+    
+    {
+      "brand": "Rolex",
+      "model": "Submariner Date",
+      "price": "$9,550.00",
+      "description": "A classic dive watch that is water-resistant to 300 meters and has a date window at 3 o’clock. The watch features a ceramic bezel, a luminescent dial, and a magnifying lens. The watch is powered by an automatic movement and has a stainless steel Oyster bracelet.",
+      "id":4
+    },
+    
+    {
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "price": "$34,893.00",
+      "description": "A luxury sports watch that has a distinctive octagonal-shaped case and a horizontal embossed dial. The watch features a date window at 3 o’clock and a sweep seconds hand. The watch is powered by an automatic movement and has a stainless steel bracelet.",
+      "id":5
+    },
+    
+    {
+      "brand": "G-Shock",
+      "model": "GMAS2100 White",
+      "price": "$99.00",
+      "description": "A tough and durable watch that has shock resistance, water resistance, and solar power. The watch features a digital-analog display, a stopwatch, a timer, an alarm, and a backlight. The watch has a resin case and band.",
+      "id":6
+    }
+    
+  
+  ]
+  
